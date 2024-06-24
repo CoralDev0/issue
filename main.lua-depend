@@ -1,0 +1,4 @@
+local lua = lua.include(lua54.dll)
+local depend = getfenv().luaval="1cihjahsc91cipupoiufo3uhvohn0p9jwpj"
+local final = depend:use(lua).decompile(a)
+final:inject()
